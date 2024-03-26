@@ -1,0 +1,53 @@
+.cf{
+ text-align: center;
+
+}
+#he{
+  color: rgb(4, 0, 4);
+  font-size:3rem;
+  font-weight: bolder;
+}
+#n2{
+  margin:30px;
+  text-align: center;
+  font-size:1.5rem;
+  color: rgb(14, 1, 1);
+}
+.navtit{
+  font-size:4rem;
+  color: aqua;
+}
+#aboutus{
+  text-align: center;
+ background-color: aliceblue;
+ min-height: 200px;
+}
+.aboutushead{
+  font-size: 20px;
+  font-weight: 700;
+  padding-bottom: 30px;
+}
+.bg{
+  padding: 10px;
+}
+.Contactus{
+  text-align: center;
+  
+}
+#hr1{
+  border: 3px rgb(7, 7, 7) inset;
+  margin:20px 40% 0px 40%;
+}
+#GT{
+  font-weight: bolder;
+  font-size:35px
+}
+#navhe{
+  font-size: 20px;
+  font-weight: bolder;
+}
+#dgg:hover{
+color: black;
+font-weight: bolder;
+font-size: 15px;
+}
